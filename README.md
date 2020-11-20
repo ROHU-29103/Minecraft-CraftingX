@@ -1,2 +1,2 @@
 # Minecraft-CraftingX
-A Minecraft datapack it add some crafting recipes.
+一个Minecraft合成扩展数据包。
